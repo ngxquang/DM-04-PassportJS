@@ -1,0 +1,8 @@
+### check server
+GET http://localhost:3000/status
+
+### profile route
+GET http://localhost:3000/profile
+
+### login
+GET http://localhost:3000/auth/google
